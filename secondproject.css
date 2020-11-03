@@ -90,7 +90,7 @@ body {
 }
 
 .search {
-    background-image: url('../HTML/secprojimgs/headersearch.png');
+    background-image: url('headersearch.png');
     background-repeat: no-repeat;
     background-position-x: 15px;
     background-position-y: center;
@@ -223,7 +223,7 @@ body {
     height: 604px;
     max-width: 1920px;
     min-width: 320px;
-    background-image: url('../HTML/secprojimgs/saleimg.png');
+    background-image: url('saleimg.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -392,7 +392,7 @@ color: #FFFFFF;
 .content__subscribe-card {
     width: 540px;
     background-color: #F13C6E;
-    background-image: url('../HTML/secprojimgs/content-email-img.png');
+    background-image: url('content-email-img.png');
     background-repeat: no-repeat;
     background-position-x: 320px;
     background-position-y: 20px;
@@ -401,7 +401,7 @@ color: #FFFFFF;
 .content__ourshops-card {
     width: 540px;
     background-color: #F13C6E;
-    background-image: url('../HTML/secprojimgs/content-ourshops-img.png');
+    background-image: url('content-ourshops-img.png');
     background-repeat: no-repeat;
     background-position-x: right;
     background-position-y: 40px;
